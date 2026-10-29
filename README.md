@@ -5,3 +5,5 @@ Python 3.10 이상
 
 ##라이선스
 MIT
+def logout(user):
+    print(f"{user} 로그아웃")
